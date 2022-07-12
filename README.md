@@ -1,6 +1,6 @@
 # Start project
-yarn install
-npx pod-install
+yarn install<br />
+npx pod-install<br />
 yarn run ios
 
 # Description
