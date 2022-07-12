@@ -1,4 +1,3 @@
-import {Header} from '@react-navigation/stack';
 import React from 'react';
 import {FlatList, StyleSheet, View} from 'react-native';
 import {Launch} from '../types';
